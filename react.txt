@@ -1,0 +1,14 @@
+
+react
+https://www.codementor.io/blizzerand/building-forms-using-react-everything-you-need-to-know-iz3eyoq4y
+https://www.c-sharpcorner.com/article/crud-operation-using-reactnodejsexpress/
+https://react-bootstrap.github.io/components/forms/
+https://blog.cloudboost.io/creating-your-first-mern-stack-application-b6604d12e4d3
+https://medium.com/technoetics/create-basic-login-forms-using-create-react-app-module-in-reactjs-511b9790dede
+https://medium.com/javascript-in-plain-english/full-stack-mongodb-react-node-js-express-js-in-one-simple-app-6cc8ed6de274
+https://codeburst.io/redux-a-crud-example-abb834d763c9
+https://medium.com/@maheshkariya/mern-stack-crud-app-using-create-react-app-react-redux-part-1-d9c0298b5620
+https://appdividend.com/2018/06/15/react-redux-axios-tutorial-example/
+https://alligator.io/react/axios-react/
+https://appdividend.com/2018/11/11/react-crud-example-mern-stack-tutorial/
+

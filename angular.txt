@@ -1,0 +1,10 @@
+angular
+https://www.c-sharpcorner.com/article/angular-5-crud-opration-using-nodeexpressmongo/
+https://scotch.io/tutorials/setting-up-a-mean-stack-single-page-application#
+https://angular-templates.io/tutorials/about/learn-how-to-build-a-mean-stack-application
+https://coursetro.com/posts/code/171/Angular-7-Tutorial---Learn-Angular-7-by-Example
+angular  7
+https://appdividend.com/2018/11/04/angular-7-crud-example-mean-stack-tutorial/
+https://medium.freecodecamp.org/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0
+http://www.learnangularjs.net/using-jquery-with-angular.php
+

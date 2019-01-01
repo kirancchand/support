@@ -1,0 +1,5 @@
+jquery
+http://api.jquery.com/?s=selectors
+http://learn.jquery.com/performance/optimize-selectors/
+http://giganswers.org/wordpress/zunich/2015/01/04/passing-array-elements-in-javascript-as-parameters-for-an-ajax-post-request/
+http://labs.websilt.com/date-picker.html

@@ -1,0 +1,5 @@
+alexa
+https://www.thepolyglotdeveloper.com/2018/11/building-amazon-alexa-skills-nodejs-revisited/
+ALEXA
+https://developer.amazon.com/edw/home.html#/skills
+https://developer.amazon.com/alexa-skills-kit/alexa-skill-quick-start-tutorial

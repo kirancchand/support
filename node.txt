@@ -1,0 +1,13 @@
+node
+https://medium.freecodecamp.org/build-restful-api-with-authentication-under-5-minutes-using-loopback-by-expressjs-no-programming-31231b8472ca
+loop back
+https://codeforgeek.com/2014/09/manage-session-using-node-js-express-4/
+node session
+https://medium.com/createdd-notes/starting-with-authentication-a-tutorial-with-node-js-and-mongodb-25d524ca0359
+https://www.codementor.io/naeemshaikh27/node-with-express-and-ejs-du107lnk6
+http://codebun.com/login-registration-nodejsexpress-mongodb/
+https://closebrace.com/tutorials/2017-03-02/creating-a-simple-restful-web-app-with-nodejs-express-and-mongodb 
+node express mongo
+https://openclassrooms.com/en/courses/2504541-ultra-fast-applications-using-node-js/2504972-creating-your-first-app-with-node-js 
+node js
+https://university.mongodb.com/courses/10gen/M101J/2015_May/courseware/Week_1_Introduction/524af6b2e2d4235f73b619ee/

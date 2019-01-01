@@ -1,0 +1,11 @@
+
+php
+https://gist.github.com/msurguy/5138788
+http://stackoverflow.com/questions/26251108/form-passing-array-from-controller-to-view-php-laravel
+http://stackoverflow.com/questions/35326115/laravel5-how-to-pass-array-to-view
+http://www.c-sharpcorner.com/uploadfile/4ab77c/create-login-and-registration-form-in-php-by-using-oops-conc/
+https://www.google.com/search?newwindow=1&q=how+to+forward+multiple+old+emails+in+gmail&revid=955377944&sa=X&ei=CdTIVNfEB4nYapS-gpgB&ved=0CHEQ1QIoAA&biw=1517&bih=741&dpr=0.9
+http://www.labnol.org/internet/transfer-gmail/28088/
+http://www.valuabletuts.com/category/php/
+https://www.google.com/search?q=pass+message+from+one+page+to+another+in+jsp&oq=pass+message+from+one+page+to+another+in+jsp&gs_l=serp.3...10566.34477.0.35289.50.44.3.3.3.2.1026.17091.2-7j24j9j2j1j1.44.0....0...1c.1.32.serp..4.46.14837.dW14ic45UyY&biw=1366&bih=506&cad=cbv&sei=o9rwUoqqNsyNrgfe5YGIDg#q=how+to+send+data+from+one+jsp+page+to+another+jsp+page&revid=524879611
+http://stackoverflow.com/questions/10994775/connecting-jsp-to-database

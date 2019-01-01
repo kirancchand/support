@@ -1,0 +1,12 @@
+
+ibm
+https://developer.ibm.com/
+https://ibmcoders.influitive.com/
+https://developer.ibm.com/tutorials/cl-create-blockchain-voting-app-hyperledger-composer-playground/
+https://console.bluemix.net/account/billing?accountId=d5408747ad634464a7b01efa019cbe0c
+https://www.ibm.com/developerworks/learn/?cm_mmc=dw-_-WelcomeNurture2017-_-wca-_-email&spMailingID=32944313&spUserID=NzYxNzYyODM1MTkxS0&spJobID=1320885532&spReportId=MTMyMDg4MjEyMwS2
+https://cognitiveclass.ai/
+https://www.ibm.com/developerworks/learn/?cm_mmc=dw-_-WelcomeNurture2017-_-wca-_-email&spMailingID=32944313&spUserID=NzYxNzYyODM1MTkxS0&spJobID=1320885532&spReportId=MTMyMDg4MjEyMwS2
+big data university
+https://github.com/IBM/powerai-counting-cars?cm_sp=Developer-_-detect-track-and-count-cars-in-a-video-_-Get-the-code
+

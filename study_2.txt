@@ -43,6 +43,7 @@ http://www.phdstudies.com/Doctoral-Studies-in-Computer-Science-and-Telecommunica
 https://books.google.co.in/books?id=QjZEBAAAQBAJ&pg=PA174&lpg=PA174&dq=escape+velocity+of+a+body+of+mass+1kg+from+earths+surface+is&source=bl&ots=WjuQkS3_wt&sig=uCczRHGctBkgU8bXBaW7UA1SxVI&hl=en&sa=X#v=onepage&q=curie%20weiss%20law&f=false
 
 others
+5194207928 mi id
 https://99bitcoins.com/how-to-generate-bitcoins-from-your-home-computer/
 https://naturecareersindia.com/
 https://us.community.samsung.com/t5/Galaxy-S-Phones/Unfortunately-Contacts-has-stopped-error/td-p/838/page/3
@@ -122,6 +123,54 @@ http://www.socialmediaexaminer.com/how-to-track-tweets-facebook-likes-and-more-w
 https://code.tutsplus.com/tutorials/wrangling-with-the-facebook-graph-api--net-23059
 https://www.sitepoint.com/integrating-with-facebook/
 
+courses
+https://openclassrooms.com/en/courses/3432056-build-your-web-projects-with-rest-apis/3518471-api-practice-with-artificial-intelligence
+https://www.oracle.com/downloads/index.html
+open class room
+https://scet.berkeley.edu/courses/
+https://www.netacad.com/campaign/linux-unhatched3?utm_source=facebook&utm_medium=cpc&utm_campaign=linux-unhatched3
+https://software.intel.com/en-us/parallel-studio-xe/choose-download?utm_source=fb-p&utm_medium=social&utm_campaign=TEC_PSXE-Stu_reg_IHI_Q218&utm_content=GIF
+Youtube is a great source for learning stuff. Even though Youtube was initially filled with cat videos, slowly people started using the platform in a useful way and creative content started ruling the website. At present, Youtube is one of the best resources for you to learn anything from cooking to coding. So, here are the 5 best  Youtube channels you need to refer to learn programming.
+Top 5 YouTube Channels to Learn Programming
+1. TheNewBoston
+. Derek Banas
+3. Learncode.academy
+ Treehouse
+. ProgrammingKnowledge
+https://thenextweb.com/google/2017/09/05/google-udacity-android-scholarship/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheNextWeb+%28The+Next+Web+All+Stories%29#.tnw_tuZfM2mL
+http://www.javatpoint.com/
+iacademy.oracle.com
+ilearning.oracle.com
+http://www.javacodegeeks.com/2010/10/android-full-application-tutorial.html
+http://academy.javacodegeeks.com/
+https://www.codeschool.com/users/sign_in
+http://www.tomsitpro.com/articles/programming-certifications,2-274.html
+https://www.infoworld.com/article/2840235/application-development/9-cutting-edge-programming-languages-worth-learning-next.html
+http://www.vtc.com/products/Introduction-to-the-Microsoft.NET-Framework-tutorials.htm
+http://www.infosecinstitute.com/find_out_pricing_ehlo.html
+http://www.itmasters.edu.au/free-short-course-hacking-countermeasures/
+http://www.learningtree.com/courses/2031/ceh-certified-ethical-hacker/
+http://www.cbtnuggets.com/it-training-videos/course/certified-ethical-hacker-series/3492
+http://www.techulator.com/resources/6669-Best-Websites-learn-ethical-hacking-online-free.aspx
+http://www.simplilearn.com/it-security-management/ceh-certification
+https://www.codeschool.com/courses/try-ruby
+http://www.fromdev.com/2013/02/Hacking-Books.html
+http://www.fromdev.com/2013/07/Hacking-Tutorials.html
+http://www.fromdev.com/2014/09/best-programming-contest-sites.html
+http://www.fromdev.com/2013/08/Javascript-Tutorials.html.
+http://www.fromdev.com/2013/07/Android-Tutorials.html
+http://www.computerworld.com/article/2505712/android/android-4-0-cheat-sheet.html
+http://www.youtube.com/watch?v=zg8PkdrwRA8
+How To Hack Any Others Computers With IP Address (Very Easy TUT).mp4How To Hack Any Others Computers With IP Address (Very Easy TUT).mp4
+www.youtube.com/watch?v=SGjAfF19Cnk
+http://www35.zippyshare.com/v/52366353/file.html
+http://tag.wonderhowto.com/hack-in-to-another-computer-through-internet/
+http://www.youtube.com/watch?feature=player_embedded&v=ljH8LR8HflY
+http://www.youtube.com/results?search_query=hack+another+computer+with+ip&oq=hack+another+c&gs_l=youtube.3.1.0l4j0i5l6.3127010.3140806.0.3156187.14.14.0.0.0.0.8379.46339.2j2j7-3j0j7.14.0...0.0...1ac.1.11.youtube.3ogT1DZklhY
+http://www.labnol.org/software/copy-command-output-to-clipboard/2506/
+Web applications with Java - Tutorial 02 - Servlet + Basic HTML FormWeb applications with Java - Tutorial 02 - Servlet + Basic HTML Form
+https://www.youtube.com/watch?v=KUkzMsbZetA&feature=youtube_gdata_player
+
 
 
 python
@@ -177,6 +226,19 @@ http://faucetbtc.com/index.php
 http://freebitco.in/?r=169882
 http://freebitco.in/?r=169882
 
+node
+https://medium.freecodecamp.org/build-restful-api-with-authentication-under-5-minutes-using-loopback-by-expressjs-no-programming-31231b8472ca
+loop back
+https://codeforgeek.com/2014/09/manage-session-using-node-js-express-4/
+node session
+https://medium.com/createdd-notes/starting-with-authentication-a-tutorial-with-node-js-and-mongodb-25d524ca0359
+https://www.codementor.io/naeemshaikh27/node-with-express-and-ejs-du107lnk6
+http://codebun.com/login-registration-nodejsexpress-mongodb/
+https://closebrace.com/tutorials/2017-03-02/creating-a-simple-restful-web-app-with-nodejs-express-and-mongodb 
+node express mongo
+https://openclassrooms.com/en/courses/2504541-ultra-fast-applications-using-node-js/2504972-creating-your-first-app-with-node-js 
+node js
+https://university.mongodb.com/courses/10gen/M101J/2015_May/courseware/Week_1_Introduction/524af6b2e2d4235f73b619ee/
 
 
 bootstrap
@@ -209,6 +271,11 @@ https://medium.freecodecamp.org/48-answers-on-stack-overflow-to-the-most-popular
 http://www.learnangularjs.net/using-jquery-with-angular.php
 
 
+alexa
+https://www.thepolyglotdeveloper.com/2018/11/building-amazon-alexa-skills-nodejs-revisited/
+ALEXA
+https://developer.amazon.com/edw/home.html#/skills
+https://developer.amazon.com/alexa-skills-kit/alexa-skill-quick-start-tutorial
 
 react
 https://www.codementor.io/blizzerand/building-forms-using-react-everything-you-need-to-know-iz3eyoq4y
@@ -224,6 +291,8 @@ https://alligator.io/react/axios-react/
 https://appdividend.com/2018/11/11/react-crud-example-mern-stack-tutorial/
 
 
+json
+https://www.sitepoint.com/dynamic-tables-json/
 
 excel
 

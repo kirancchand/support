@@ -1,0 +1,33 @@
+
+python
+https://www.learnopencv.com/barcode-and-qr-code-scanner-using-zbar-and-opencv/
+Automate the boring stuff with Python by AI Sweigart 
+#2. Leaning Python by Mark
+#3. Python Essential Reference by David Beazley 
+#4. Python in a Nutshell by Alex Martelli 
+#5. Learning Python: Learn to code like a professional with Python by Fabrizio Romano 
+http://houseofbots.com/news-detail/3863-4-list-of-free-learning-resources-for-data-science-machine-learning-and-big-data-according-to-github
+http://www.intorobotics.com/opencv-tutorials-best-of//#opencv
+https://www.youtube.com/watch?v=fJcl6Gw1D8k
+OpenCV 3 License Plate Recognition Python full source codeOpenCV 3 License Plate Recognition Python full source code
+Installed Cameras to Detect for No Seat Belt & Using Mobile Phones along Roads in Saudi ArabiaInstalled Cameras to Detect for No Seat Belt & Using Mobile Phones along Roads in Saudi Arabia
+https://www.youtube.com/watch?v=SHCjBOke70g seat belt detectn
+https://www.facebook.com/groups/1293764990678452/permalink/1835241483197464/?__tn__=K-R
+car identification
+https://www.tableau.com/academic/students
+https://www.tableau.com/academic/teaching?utm_campaign_id=2018133&utm_campaign=Retargeting-CORE-ACAD-PROF-ALL-ALL&utm_medium=Paid+Social&utm_source=FACEBOOK&utm_language=EN&utm_country=ANZ&adgroup=WEB-TFT-BTS&creative=&dclid=CjkKEQjw2rjcBRCXo6aonKSKg74BEiQA3yALfr-ScAFxAg3KeK2hGNLu_TkMwYDnHtDYU0UtXcjYm4Xw_wcB
+tableau
+https://in.mathworks.com/campaigns/offers/deep-learning-examples-with-matlab.confirmation.html?elqsid=1533037523996&potential_use=Home     downloaded
+https://towardsdatascience.com/how-to-use-facebook-graph-api-and-extract-data-using-python-1839e19d6999
+https://towardsdatascience.com/how-to-use-facebook-graph-api-and-extract-data-using-python-1839e19d6999
+count cars
+https://github.com/IBM/powerai-counting-cars?cm_sp=Developer-_-detect-track-and-count-cars-in-a-video-_-Get-the-code
+https://realpython.com/face-detection-in-python-using-a-webcam/
+http://stackoverflow.com/questions/5497540/how-to-call-a-python-script-from-php
+https://dreamtolearn.com/ryan/1001_datasets
+   http://stackoverflow.com/questions/5497540/how-to-call-a-python-script-from-php   
+https://data.gov.in/catalogs/field_ds_govt_type/Central?query=&sort_by=changed&sort_order=DESC&items_per_page=9
+https://www.kaggle.com/jobs/17427/peak-data-scientist-manchester-united-kingdom
+http://stackoverflow.com/questions/3340810/twitter-social-networking-dataset
+http://www.kdnuggets.com/2014/06/top-tweets-may30-jun1.html
+http://www.followthehashtag.com/

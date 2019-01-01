@@ -1,0 +1,36 @@
+excel
+
+Sub Macro1()
+   Dim r, n As Range, cell, cells As Range, mynumber As Long
+
+   Set r = Range("E1:E2000")
+   Set n = Range("F1:F2000")
+
+   mynumber = 1
+   For Each cell In r
+       If cell.Value = "Medium" Then
+           For Each cells In n
+           cells.Value = 2
+           Next
+       End If
+   Next
+End Sub
+Sub color() Dim color As Integer For Each cell In Sheets(6).Range("F2:F65536") If IsEmpty(cell) Then GoTo nextcell: If Not IsNumeric(cell.Value) Then GoTo nextcell: If cell.Value > 50 Then color = 4 ElseIf cell.Value < 35 Then color = 3 Else: color = 2 End If cell.EntireRow.Interior.ColorIndex = color nextcell: Next cell End Sub
+Sub CopyYes()
+   Dim c As Range
+   Dim j As Integer
+   Dim Source As Worksheet
+   Dim Target As Worksheet
+
+   ' Change worksheet designations as needed
+   Set Source = ActiveWorkbook.Worksheets("Sheet2")
+   Set Target = ActiveWorkbook.Worksheets("Sheet3")
+
+   j = 1     ' Start copying to row 1 in target sheet
+   For Each c In Source.Range("A1:Q5000")   ' Do 1000 rows
+       If c = "not satisfied" Then
+          Source.Rows(c.Row).Copy Target.Rows(j)
+          j = j + 1
+       End If
+   Next c
+End Sub
